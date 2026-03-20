@@ -1,6 +1,10 @@
-package br.com.loriens.reflectionutilrepository.common;
+package br.com.scodewr.reflectool.common;
 
 public class CommonMethods {
+
+    // Private constructor to prevent instantiation
+    private CommonMethods(){}
+
     /**
      * Capitalizes the first letter of the given string.
      *

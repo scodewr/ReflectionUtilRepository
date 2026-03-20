@@ -1,7 +1,7 @@
-package br.com.loriens.reflectionutilrepository.reflection;
+package br.com.scodewr.reflectool.reflection;
 
 
-import static br.com.loriens.reflectionutilrepository.common.CommonMethods.capitalize;
+import static br.com.scodewr.reflectool.common.CommonMethods.capitalize;
 
 /**
  * Utility class for setting attributes on objects using reflection.

@@ -1,11 +1,11 @@
-package br.com.loriens.reflectionutilrepository.reflection;
+package br.com.scodewr.reflectool.reflection;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 import java.util.Arrays;
 import java.util.List;
 
-import static br.com.loriens.reflectionutilrepository.common.CommonMethods.capitalize;
+import static br.com.scodewr.reflectool.common.CommonMethods.capitalize;
 
 /**
  * Utility class for reflecting and invoking getter methods on nested fields.
