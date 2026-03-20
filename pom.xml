@@ -14,7 +14,7 @@
 
     <groupId>br.com.scodewr.reflectool</groupId>
     <artifactId>reflectool</artifactId>
-    <version>0.0.2-alpha</version>
+    <version>0.0.3-alpha</version>
 
     <properties>
         <maven.compiler.source>25</maven.compiler.source>
